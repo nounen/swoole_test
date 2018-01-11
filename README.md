@@ -13,6 +13,8 @@ cd /etc/php/7.0/cli/conf.d/ && sudo ln -s /etc/php/7.0/mods-available/swoole.ini
 cd /etc/php/7.0/fpm/conf.d/ && sudo ln -s /etc/php/7.0/mods-available/swoole.ini 20-swoole.ini
 ```
 
+* 编译参数: https://wiki.swoole.com/wiki/page/437.html
+
 ### BashOnWindows
 * BashOnWindows 环境下必须关闭 daemonize 选项 (TODO: 表示没找到)
 
