@@ -27,3 +27,7 @@ cd /etc/php/7.0/fpm/conf.d/ && sudo ln -s /etc/php/7.0/mods-available/swoole.ini
 
 ### 传输层TCP和UDP的区别分析与应用场景
 * http://blog.csdn.net/u013777351/article/details/49226101
+
+
+### 快速起步 (示例代码在 quick_example)
+* https://wiki.swoole.com/wiki/page/p-quickstart.html
