@@ -1,3 +1,6 @@
+### 学习Swoole需要掌握哪些基础知识
+* https://wiki.swoole.com/wiki/page/487.html
+
 ### 编译
 * 版本选择 https://github.com/swoole/swoole-src/releases
 ```sh
